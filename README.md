@@ -73,15 +73,6 @@ Output Layer (1 neuron, Sigmoid)
    pip install pandas tensorflow scikit-learn
    ```
 
-3. **Add dataset**:
-   - Download `cancer.csv` [here](https://gist.github.com/KhanradCoder/35a6beea49e5b9ba62797e595a9626c0)
-   - Place it in the project root directory
-
-4. **Train the model**:
-   ```bash
-   python ai_in_15.py
-   ```
-
 ---
 
 ## 📊 Model Evaluation
@@ -128,7 +119,7 @@ print(classification_report(y_test, y_pred))
 
 👤 **Mohamed Ayoub Essalami**  
 🎓 Physics & Engineering Enthusiast | Passionate about AI in Healthcare  
-📬 Reach me on [LinkedIn](https://www.linkedin.com) or via GitHub
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-ayoub-essalami/) or via GitHub
 
 ---
 
